@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+#heading{
+	clear: both;
+}
+
+#leftheading{
+	float: left;
+}
+
+#rightheading{
+	float:right;
+}
+
+.jumbotron
+{
+  display: block;
+  max-height:50%;
+  overflow-y: auto;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
